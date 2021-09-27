@@ -47,3 +47,26 @@ thead{
 table{
     table-layout: fixed; width: 100%;
 }
+
+#link-esterni{
+    color: gray;
+}
+
+#pink{
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+    height: 200px;
+    background-image: url("../img/monitor.jpg");
+    background-repeat: no-repeat;
+}
+
+#red{
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+    margin-top: 20px;
+    height: 200px;
+    background-image: url("../img/graph.jpg");
+    background-repeat: no-repeat;
+}
