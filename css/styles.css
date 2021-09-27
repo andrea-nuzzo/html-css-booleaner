@@ -9,3 +9,24 @@ header{
     padding-top: 90px;
     margin-left: 10px;
 }
+
+h1{
+    margin-bottom: 1px;
+}
+
+.sezione-titolo{
+    color: gray;
+}
+
+#span-titolo{
+    color: #00a5df;
+}
+
+#didascalia{
+    font-size: 12px;
+}
+
+#data{
+    font-size: 12px;
+    margin-bottom: 20px;
+}
