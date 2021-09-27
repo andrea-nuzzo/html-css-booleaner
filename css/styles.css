@@ -30,3 +30,20 @@ h1{
     font-size: 12px;
     margin-bottom: 20px;
 }
+
+.sottolineato{
+    background-color: yellow;
+}
+thead{
+    background-color: #009fde;
+    color: white;
+}
+
+.riga-dispari{
+    background-color: #a0e1ef;
+
+}
+
+table{
+    table-layout: fixed; width: 100%;
+}
